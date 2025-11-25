@@ -1,6 +1,5 @@
-ai+3d
 3d高斯
 3dgs
 李飞飞
 tripo
-ai+3d模型
+ai3d
